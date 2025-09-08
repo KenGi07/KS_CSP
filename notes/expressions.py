@@ -2,8 +2,6 @@
 
 # What is an algorithm?
     # is a set of intrusction that accomplishes a task
-name=input("what is your name")
-print("Hello", name)
 
 length = 5
 width = 20
@@ -21,5 +19,5 @@ print(age1, "x", age2, "x", age3, "x", age4, "/4" "=")
 
 print("average as is" ,average)
 
-print((3*5**2/15)-(5-2**2))
+print("(3*5**2/15)-(5-2**2)")
 

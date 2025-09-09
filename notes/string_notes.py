@@ -10,4 +10,5 @@ sentence="the quick brown fox jumps over the lazy dog"
 
 print("welcome to my program", full_name + "!")
 
+#debuggin is fixing problems by doing the code over again
 

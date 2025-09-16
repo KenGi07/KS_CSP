@@ -5,7 +5,3 @@ def hello():
     print(f"hello {name}!")
 
 hello()
-hello()
-hello()
-hello()
-hello()

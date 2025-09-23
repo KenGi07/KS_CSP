@@ -23,7 +23,7 @@ print(siblings)
 # What are the two types of loops?
     # for loop, while loop
 # What is iteration
-    # keeps track of loop number
+    # keeps track of loop number,
 # What are lists? 
     # multiple items in a variable
 # How do you make lists in python? 

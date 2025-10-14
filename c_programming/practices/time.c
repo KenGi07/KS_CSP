@@ -1,0 +1,24 @@
+// KS 6th Time of day
+
+#include <stdio.h>
+#include <string.h>
+int main(void){
+    int time;
+    
+    printf("what time is it in military time?: ");
+
+    scanf("%d", &time);
+
+    if (time >= 18)
+        printf("good evening");
+
+    else if (time >= 12)
+        printf("good afternoon");
+
+    else if (time <= 11)
+        printf("good morning");
+
+    return 0;
+    
+
+}
